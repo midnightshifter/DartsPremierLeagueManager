@@ -1,0 +1,232 @@
+{
+    "players": {
+        "Josh Rock": {
+            "points": 0,
+            "played": 3,
+            "wins": 0,
+            "legs_won": 10,
+            "legs_lost": 30,
+            "night_wins": 0,
+            "total_180s": 6
+        },
+        "Johnny Clayton": {
+            "points": 9,
+            "played": 3,
+            "wins": 1,
+            "legs_won": 57,
+            "legs_lost": 31,
+            "night_wins": 1,
+            "total_180s": 41
+        },
+        "Gerwyn Price": {
+            "points": 5,
+            "played": 3,
+            "wins": 1,
+            "legs_won": 32,
+            "legs_lost": 37,
+            "night_wins": 1,
+            "total_180s": 18
+        },
+        "Michael van Gerwen": {
+            "points": 8,
+            "played": 3,
+            "wins": 1,
+            "legs_won": 33,
+            "legs_lost": 20,
+            "night_wins": 1,
+            "total_180s": 17
+        },
+        "Gian van Veen": {
+            "points": 6,
+            "played": 3,
+            "wins": 0,
+            "legs_won": 59,
+            "legs_lost": 50,
+            "night_wins": 0,
+            "total_180s": 29
+        },
+        "Stephen Bunting": {
+            "points": 0,
+            "played": 3,
+            "wins": 0,
+            "legs_won": 15,
+            "legs_lost": 30,
+            "night_wins": 0,
+            "total_180s": 11
+        },
+        "Luke Littler": {
+            "points": 4,
+            "played": 3,
+            "wins": 0,
+            "legs_won": 16,
+            "legs_lost": 29,
+            "night_wins": 0,
+            "total_180s": 15
+        },
+        "Luke Humphries": {
+            "points": 4,
+            "played": 3,
+            "wins": 0,
+            "legs_won": 46,
+            "legs_lost": 41,
+            "night_wins": 0,
+            "total_180s": 40
+        }
+    },
+    "current_night": 4,
+    "nights": {
+        "Night 1": [
+            {
+                "round": "Quarter Final",
+                "p1": "Josh Rock",
+                "p2": "Johnny Clayton",
+                "score": "2-6",
+                "winner": "Johnny Clayton"
+            },
+            {
+                "round": "Quarter Final",
+                "p1": "Luke Littler",
+                "p2": "Gian van Veen",
+                "score": "4-6",
+                "winner": "Gian van Veen"
+            },
+            {
+                "round": "Quarter Final",
+                "p1": "Luke Humphries",
+                "p2": "Gerwyn Price",
+                "score": "6-5",
+                "winner": "Luke Humphries"
+            },
+            {
+                "round": "Quarter Final",
+                "p1": "Stephen Bunting",
+                "p2": "Michael van Gerwen",
+                "score": "2-6",
+                "winner": "Michael van Gerwen"
+            },
+            {
+                "round": "Semi Final",
+                "p1": "Johnny Clayton",
+                "p2": "Gian van Veen",
+                "score": "4-6",
+                "winner": "Gian van Veen"
+            },
+            {
+                "round": "Semi Final",
+                "p1": "Luke Humphries",
+                "p2": "Michael van Gerwen",
+                "score": "2-6",
+                "winner": "Michael van Gerwen"
+            },
+            {
+                "round": "Final",
+                "p1": "Gian van Veen",
+                "p2": "Michael van Gerwen",
+                "score": "4-6",
+                "winner": "Michael van Gerwen"
+            }
+        ],
+        "Night 2": [
+            {
+                "round": "Quarter Final",
+                "p1": "Luke Littler",
+                "p2": "Luke Humphries",
+                "score": "6-5",
+                "winner": "Luke Littler"
+            },
+            {
+                "round": "Quarter Final",
+                "p1": "Michael van Gerwen",
+                "p2": "Josh Rock",
+                "score": "6-2",
+                "winner": "Michael van Gerwen"
+            },
+            {
+                "round": "Quarter Final",
+                "p1": "Johnny Clayton",
+                "p2": "Stephen Bunting",
+                "score": "6-4",
+                "winner": "Johnny Clayton"
+            },
+            {
+                "round": "Quarter Final",
+                "p1": "Gerwyn Price",
+                "p2": "Gian van Veen",
+                "score": "6-5",
+                "winner": "Gerwyn Price"
+            },
+            {
+                "round": "Semi Final",
+                "p1": "Luke Littler",
+                "p2": "Michael van Gerwen",
+                "score": "4-6",
+                "winner": "Michael van Gerwen"
+            },
+            {
+                "round": "Semi Final",
+                "p1": "Johnny Clayton",
+                "p2": "Gerwyn Price",
+                "score": "5-6",
+                "winner": "Gerwyn Price"
+            },
+            {
+                "round": "Final",
+                "p1": "Michael van Gerwen",
+                "p2": "Gerwyn Price",
+                "score": "3-6",
+                "winner": "Gerwyn Price"
+            }
+        ],
+        "Night 3": [
+            {
+                "round": "Quarter Final",
+                "p1": "Stephen Bunting",
+                "p2": "Gian van Veen",
+                "score": "3-6",
+                "winner": "Gian van Veen"
+            },
+            {
+                "round": "Quarter Final",
+                "p1": "Luke Humphries",
+                "p2": "Josh Rock",
+                "score": "6-2",
+                "winner": "Luke Humphries"
+            },
+            {
+                "round": "Quarter Final",
+                "p1": "Johnny Clayton",
+                "p2": "Gerwyn Price",
+                "score": "6-3",
+                "winner": "Johnny Clayton"
+            },
+            {
+                "round": "Quarter Final",
+                "p1": "Luke Littler",
+                "p2": "Michael van Gerwen",
+                "score": "WO",
+                "winner": "Luke Littler"
+            },
+            {
+                "round": "Semi Final",
+                "p1": "Gian van Veen",
+                "p2": "Luke Humphries",
+                "score": "6-5",
+                "winner": "Gian van Veen"
+            },
+            {
+                "round": "Semi Final",
+                "p1": "Johnny Clayton",
+                "p2": "Luke Littler",
+                "score": "6-1",
+                "winner": "Johnny Clayton"
+            },
+            {
+                "round": "Final",
+                "p1": "Gian van Veen",
+                "p2": "Johnny Clayton",
+                "score": "2-6",
+                "winner": "Johnny Clayton"
+            }
+        ]
+    }
+}
