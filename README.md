@@ -28,6 +28,8 @@ Runner-up: 3 points
 
 Semi-finalists: 2 points
 
+-------------------------------------------------------------------------------
+
 Sorting dynamic leaderboards by:
 
 Points
@@ -48,6 +50,7 @@ Using JSON for persistent data storage
 
 Statistics Monitored
 
+-------------------------------------------------------------------------------
 
 Every player keeps track of:
 
